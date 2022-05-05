@@ -1,6 +1,6 @@
 // Java program to demonstrate use of static blocks
 
-class Test
+class primary
 {
 	// static variable
 	static int a = 10;
